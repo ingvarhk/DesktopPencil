@@ -12,3 +12,8 @@ frog = DesktopPencil.load("frog.png", 50, 1005)
 DesktopPencil.draw(frog, 5000)
 ```
 <img src="/Exampels/1.PNG">
+
+### ```DesktopPencil.load()```
+* file - The image you want to draw
+* start_pos_x - Start position horizontal
+* start_pos_y - Start position vertical 
