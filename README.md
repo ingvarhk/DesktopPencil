@@ -3,7 +3,7 @@ This python package will allow you to draw small images on your screen. You will
 
 ### Installation
 If you have PIP installed you can simply run this command: `pip install DesktopPencil`
-The package is uploaded to PyPi and can be also installed [here](https://pypi.org/project/DesktopPencil/).
+The package is uploaded to PyPi and can also be installed [here](https://pypi.org/project/DesktopPencil/).
 
 ### Exampel
 This exampel will draw a frog on the screen for 5 seconds. The ```load``` function returns a list with all the needed pixels including the position of them.
