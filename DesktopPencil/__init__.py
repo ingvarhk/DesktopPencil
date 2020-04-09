@@ -1,1 +1,1 @@
-from DesktopPencil.Pencil import DesktopPencil
+from DesktopPencil.Pencil import *
