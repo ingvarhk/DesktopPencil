@@ -1,5 +1,5 @@
 # Desktop Pencil
-This python package will allow you to draw small images on your screen. You will be able to rotate and resize your image before drawing it. Desktop Pencil can draw many image file formats such as PNG, JPG, GIF and ICO. Desktop Pencil is best at drawing small images with few pixels.
+This python package will allow you to draw small images on your screen. You will be able to rotate and resize your image before drawing them. Desktop Pencil support many image file formats such as PNG, JPG, GIF and ICO. Desktop Pencil is best at drawing small images with few pixels.
 
 ### Installation
 If you have PIP installed you can simply run this command: `pip install DesktopPencil`
