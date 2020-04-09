@@ -1,7 +1,7 @@
 import DesktopPencil
 
-frog_pixels = DesktopPencil.load("frog.png", 0, 500, rotation=270)
-DesktopPencil.draw(frog_pixels, 1000)
+#frog_pixels = DesktopPencil.load("frog.png", 50, 1005, rotation=0)
+#DesktopPencil.draw(frog_pixels, 100000)
 
-cat_pixels = DesktopPencil.load("epic_glasses.png", 0, 0, size=(400,400))
-DesktopPencil.draw(cat_pixels)
+cat_pixels = DesktopPencil.load("epic_glasses.png", 500, 300, rotation=25, size=(500,500))
+DesktopPencil.draw(cat_pixels, 100000)
