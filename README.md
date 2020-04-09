@@ -1,5 +1,5 @@
 # Desktop Pencil
-This python package will allow you to draw small images on your desktop.
+This python package will allow you to draw small images on your screen.
 
 
 ```python
