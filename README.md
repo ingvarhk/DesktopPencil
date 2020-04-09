@@ -14,8 +14,12 @@ DesktopPencil.draw(frog, 5000)
 <img src="/Exampels/1.PNG">
 
 ### ```DesktopPencil.load()```
-* file - The image you want to draw
-* start_pos_x - Start position horizontal
-* start_pos_y - Start position vertical
-* rotation - Image rotation
-* size - Image size in tuple eg. (50,100)
+* ```file``` - The image you want to draw
+* ```start_pos_x``` - Start position horizontal
+* ```start_pos_y``` - Start position vertical
+* ```rotation``` - Image rotation
+* ```size``` - Image size in tuple eg. (50,100)
+
+### ```DesktopPencil.draw()```
+* ```pixels``` - List returned from the ```load``` function
+* ```duration``` - How long the image is visible in milliseconds
