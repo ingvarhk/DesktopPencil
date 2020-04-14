@@ -4,7 +4,7 @@ from win32api import GetSystemMetrics
 from PIL import Image
 import time
 
-        
+ 
 screen_width = GetSystemMetrics(0)
 screen_height = GetSystemMetrics(1)
     
